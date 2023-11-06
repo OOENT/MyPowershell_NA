@@ -1,0 +1,1 @@
+powershell.exe -WindowStyle Hidden -File ".\config\_MyPowershell_NA.ps1"
